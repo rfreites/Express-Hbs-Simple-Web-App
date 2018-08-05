@@ -1,4 +1,4 @@
-# # **[Express + Hbs (Web Boilerplate)](https://github.com/rfreites/Express-Hbs-Web-Boilerplate-.git)**
+# # **[Express + Hbs (Web Boilerplate)](https://github.com/rfreites/Express-Hbs-Simple-Web-App.git)**
 
 # Install
 
